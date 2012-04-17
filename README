@@ -1,0 +1,12 @@
+// Bloomingfoods Store Locator//
+// By: Patrick Craig          //
+// 4.17.2012		      //
+
+4.17.2012
+Committed the first version of this. It works!
+
+Still need to:
+Just use the .html files for the array
+Format the infoWindow
+Ensure compatability with the app (can probably just toss the URL to the app to open)
+
